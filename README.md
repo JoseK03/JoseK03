@@ -1,6 +1,7 @@
 # 💫 About Me:
 <div align="center">
-🔭 I’m currently working on Isomorphys Music<br>🌱 I’m currently learning web development with backend focus<br>💬 Ask me about anything<br>⚡ I like to be constantly learning </div>
+🔭 I’m currently working on Isomorphys Music<br>🌱 I’m currently learning web development with backend focus<br>💬 Ask me about anything<br>⚡ I like to be constantly learning 
+</div>
 
 
 ## 🌐 Socials:
